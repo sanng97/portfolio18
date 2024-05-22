@@ -111,7 +111,7 @@
                     <v-col cols="12" class="childcol">
                       <div class="child2 mButton padding bgColor1">
                         <h1 class="black--text text--darken-4">MBTI</h1>
-                        <p class="white--text">ISFP</p>
+                        <p class="white--text">ISTP</p>
                       </div>
                     </v-col>
                     <v-col cols="12" class="childcol">
@@ -242,7 +242,7 @@
                   </p>
                 </v-col>
                 <v-col cols="2">
-                  <v-btn :href="'https://blog.naver.com/rty6258'" target="_blank" color="#FF1976">
+                  <v-btn :href="'https://sanng97.tistory.com/'" target="_blank" color="#FF1976">
                     <span>Blog</span>
                     <v-icon>mdi-alpha- go -circle</v-icon>
                   </v-btn>
